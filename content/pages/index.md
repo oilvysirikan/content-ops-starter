@@ -690,7 +690,7 @@ sections:
       type: TitleBlock
     subtitle: Section with a form subtitle
     text: >
-      https://slotslaunch.com/iframe/33436?token=ed6fJvyRqxrjNvOUHn9kizakoBlB12LZ7LPbxs7dhuTmyzzxVH``
+      [https://slotslaunch.com/iframe/33436?token=ed6fJvyRqxrjNvOUHn9kizakoBlB12LZ7LPbxs7dhuTmyzzxVH](https://slotslaunch.com/iframe/33436?token=ed6fJvyRqxrjNvOUHn9kizakoBlB12LZ7LPbxs7dhuTmyzzxVH``)
     media:
       fields:
         - name: name
