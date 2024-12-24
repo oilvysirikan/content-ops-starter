@@ -689,11 +689,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      https://slotslaunch.com/iframe/33436?token=ed6fJvyRqxrjNvOUHn9kizakoBlB12LZ7LPbxs7dhuTmyzzxVH``
     media:
       fields:
         - name: name
